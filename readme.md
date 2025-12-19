@@ -26,3 +26,10 @@ git push origin main
 
 <h1>input.css</h1>
 1. copy - @import "tailwindcss";
+
+create branch:-
+git branch
+git branch devlopment(name)
+git branch
+switch karva:-
+git checkout devlopment (name)
